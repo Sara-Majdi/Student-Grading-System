@@ -1,7 +1,6 @@
 # Student-Grading-System
 </br>
 </br>
-</br>
 Write a program to allow the academic staff to enter the coursework marks and final marks for
 the students. The program reads scores in three categories: test, assignments and final. Each
 category is weighted: its points are scaled up to a fraction of the 100 percent grade for the
@@ -22,3 +21,12 @@ assignments were given. For each assignment, the user enters a score and points 
 a cumulative sum as described in lecture. Part of the homework score comes from sections
 attended. We will simplify the formula to assume that each section attended is worth 3 points,
 up to a maximum of 34 points.
+</br>
+</br>
+Included in the repository are : 
+</br>
+📁 Clinic Queue zip file 
+</br>
+📃 Report of Clinic Queueing System 
+</br>
+</br>
