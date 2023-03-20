@@ -1,7 +1,7 @@
 # Student-Grading-System
 </br>
 </br>
-Write a program to allow the academic staff to enter the coursework marks and final marks for
+This program is to allow the academic staff to enter the coursework marks and final marks for
 the students. The program reads scores in three categories: test, assignments and final. Each
 category is weighted: its points are scaled up to a fraction of the 100 percent grade for the
 course. As the program begins reading each category, it first prompts for the category's weight.
